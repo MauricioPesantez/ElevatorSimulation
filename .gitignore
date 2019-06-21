@@ -3,4 +3,6 @@
 *.out
 *.p
 *.dns
+*.dsn
 *.accdb
+*.Backup.doe
