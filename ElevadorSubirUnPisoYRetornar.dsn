@@ -9,5 +9,5 @@ MaxScanRows=8
 MaxBufferSize=2048
 FIL=MS Access
 DriverId=281
-DefaultDir=c:\Users\Public\Documents\Rockwell Software\Arena\Examples
-DBQ=C:\Users\mauri\Documents\GitHub\ElevatorSimulation\ElevatorSimulation\ElevadorSubirUnPisoYRetornar.accdb
+DefaultDir=c:\Users\david\Documents\GitHub\ElevatorSimulation
+DBQ=C:\Users\david\Documents\GitHub\ElevatorSimulation\ElevadorSubirUnPisoYRetornar.accdb
